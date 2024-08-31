@@ -1,0 +1,17 @@
+.myButton {
+	border: 1px solid black;
+	border-radius: 20%;
+	margin: 5px;
+	padding: 5px;
+	background: teal;
+	color: white;
+
+	&:hover {
+		background: white;
+		color: teal;
+	}
+}
+
+.value {
+	font-size: 36px;
+}
